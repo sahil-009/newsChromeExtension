@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 0;
+    background: #f4f4f4;
+  }
+  
+  #content {
+    text-align: center;
+  }
+  
+  #query {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  #fetchNews {
+    padding: 10px 20px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #fetchNews:hover {
+    background: #0056b3;
+  }
+  
+  #newsContainer {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
